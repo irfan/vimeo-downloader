@@ -1,4 +1,6 @@
-Download the vimeo.com videos over terminal.
+Project created: 11 January 2014
+
+## Download the vimeo.com videos over terminal.
 1. include vimeo-downloader.php file
 2. add these lines;
    $video_ids = '37119711';
